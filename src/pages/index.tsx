@@ -26,13 +26,13 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
+              By{" "}
               <Image
-                src="/vercel.svg"
-                alt="Vercel Logo"
+                src="/PingIdentity.svg"
+                alt="Ping Identity Logo"
                 className={styles.vercelLogo}
                 width={100}
-                height={24}
+                height={100}
                 priority
               />
             </a>
@@ -42,10 +42,10 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
+            src="/PingOneCloudPlatform.svg"
+            alt="PingOne Cloud Platform Logo"
+            width={360}
+            height={112}
             priority
           />
         </div>
@@ -110,5 +110,5 @@ export default function Home() {
         </div>
       </main>
     </>
-  )
+  );
 }
