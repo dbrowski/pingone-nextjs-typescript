@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>PingOne Integration</title>
+        <title>PingOne NextJS with Typescript Integration</title>
         <meta name="description" content="An example showing how to integrate PingOne with a NextJS app." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
