@@ -44,8 +44,8 @@ export default function Home() {
             className={styles.logo}
             src="/PingOneCloudPlatform.svg"
             alt="PingOne Cloud Platform Logo"
-            width={360}
-            height={112}
+            width={720}
+            height={224}
             priority
           />
         </div>
